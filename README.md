@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como Estagiário de Desenvolvimento Web 
 - 🌱 Estudando JS, Node.JS e React.JS
-- 💼 Projetos Desenvolvidos Para o Gov. Riogrande do Norte: https://transparencia.rn.gov.br/ 
+- 💼 Projetos Desenvolvidos Para o Gov. do Rio grande do Norte: https://transparencia.rn.gov.br/ 
 - 💻 Projeto em Desenvolvimento para o Atelie d'Maria: https://github.com/AlefeOliveira5/atelie-dmaria
 
 <div align="center">
