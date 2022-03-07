@@ -23,9 +23,9 @@
  
 <div> 
   <a href="https://www.instagram.com/lefeoliveira07/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lefeoliveira@gmail.com"><img style="border-radius" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alefe-oliveira-65ba8a101/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](ttps://github.com/AlefeOliveira5/AlefeOliveira5/)
-  
-<\div>
+  <a href = "mailto:lefeoliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alefe-oliveira-65ba8a101/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/AlefeOliveira5/AlefeOliveira5/blob/main/.github/workflows/cobrinha.yml)
+ 
+</div>
