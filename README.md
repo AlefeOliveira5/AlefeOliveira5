@@ -1,4 +1,4 @@
-### Salve! Tudo certo?, Me chamo Alefe Oliveira, Bem-Vindo!
+### Salve! Tudo certo? Me chamo Alefe Oliveira, Bem-Vindo!
 
 - 🔭 Hoje trabalho como Estagiário de Desenvolvimento Web 
 - 🌱 Estudando JS, Node.JS e React.JS
