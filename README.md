@@ -1,7 +1,7 @@
 ### Salve! Tudo certo? Me chamo Alefe Oliveira, Bem-Vindo!
 
 - 🔭 Hoje trabalho como Estagiário de Desenvolvimento Web 
-- 🌱 Estudando JS, Angular.JS e Spring Framework
+- 🌱 Estudando JS, React.js e Node.js
 - 💼 Projetos Desenvolvidos Para o Gov. do Rio grande do Norte: https://transparencia.rn.gov.br/ 
 
 <div align="center">
