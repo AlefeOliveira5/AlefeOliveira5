@@ -1,6 +1,6 @@
 ### Salve! Tudo certo? Me chamo Alefe Oliveira, Bem-Vindo!
 
-- 🔭 Hoje trabalho como Junior Systems Engineer
+- 🔭 Hoje trabalho como Junior Systems Engineer na Minsait
 - 🌱 Estudando JS, React.js e Next.js
 - 💼 Projetos Desenvolvidos Para o Gov. do Rio grande do Norte: https://transparencia.rn.gov.br/ 
 
