@@ -1,7 +1,7 @@
 ### Salve! Tudo certo? Me chamo Alefe Oliveira, Bem-Vindo!
 
-- 🔭 Hoje trabalho como Estagiário de Desenvolvimento Web 
-- 🌱 Estudando JS, React.js e Node.js
+- 🔭 Hoje trabalho como Junior Systems Engineer
+- 🌱 Estudando JS, React.js e Next.js
 - 💼 Projetos Desenvolvidos Para o Gov. do Rio grande do Norte: https://transparencia.rn.gov.br/ 
 
 <div align="center">
@@ -15,7 +15,6 @@
   <img align="center" alt="Alefe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alefe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alefe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Alefe-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Alefe-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Alefe-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Alefe-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
